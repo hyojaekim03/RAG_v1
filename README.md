@@ -9,10 +9,10 @@ This project is a RAG implementation of an AI English Tutor using Langchain, Pin
 1. Prerequisites
 Make sure you have the following installed on your machine:
 
--- Python 3.12^
--- pip
--- Pinecone account + API key, Environment/Region
--- OpenAI API key
+  - Python 3.12^
+  - pip
+  - Pinecone account + API key, Environment/Region
+  - OpenAI API key
 
 2. Clone the Repository
 ``` bash
