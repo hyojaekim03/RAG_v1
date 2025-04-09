@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a RAG implementation of an AI English Tutor using Langchain, Pinecone, and OpenAI API. 
+This project is a simple prototype RAG implementation of an AI English Tutor using Langchain, Pinecone, and OpenAI API. 
 
 ## Set-up Instructions
 
